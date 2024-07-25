@@ -8,8 +8,8 @@
 
 ## Dependency
 
-- Python 3
-- TensorFlow 2.4
+- Python 3.11
+- TensorFlow 2.15
 - sklearn
 - numpy
 - OpenCV
